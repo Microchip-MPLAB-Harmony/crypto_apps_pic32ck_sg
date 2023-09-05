@@ -1,12 +1,21 @@
 package:
   format-version: "1.0.0"
-  name: "replaceme"
+  name: "crypto_apps pic32ck_sg"
   type: "application"
   status: "beta"
   required: false
   version: "1.0.0"
 
   dependencies:
+    - name: "dev_packs"
+      type: "package"
+      version: "3.17.0"
+    - name: "core"
+      type: "package"
+      version: "3.13.1"
     - name: "csp"
       type: "package"
-      version: "3.14.0"
+      version: "3.17.0"
+    - name: "bsp"
+      type: "package"
+      version: "3.16.1"

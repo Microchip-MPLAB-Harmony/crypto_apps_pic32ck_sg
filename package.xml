@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Package name="replaceme">
-    <Dependencies>
+<Package name="crypto_apps_pic32ck_sg">
+    <Dependencies>        
+        <Dependency name="dev_packs" version="v3.17.0"/>
+        <Dependency name="core" version="v3.13.1"/>
+        <Dependency name="csp" version="v3.17.0"/>
+        <Dependency name="bsp" version="v3.16.1"/>
     </Dependencies>
 </Package>
