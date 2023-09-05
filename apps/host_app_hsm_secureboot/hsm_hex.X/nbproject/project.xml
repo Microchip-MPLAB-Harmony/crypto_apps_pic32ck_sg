@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>hsm_hex</name>
+            <creation-uuid>4209c14f-0464-478c-9d3f-254db2f37f6a</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>..</sourceRootElem>
+                <sourceRootElem>../../#Riverside/##crypto_apps_PIC32_CZ_CA90/crypto_apps_pic32cz_ca90/apps/hsm_firmware_flash_boot/host_test</sourceRootElem>
+                <sourceRootElem>../../../../../pic32ck_hsm_app_testing/crypto_apps_pic32ck_sg/host_firmware_hsm_boothex_pic32ck-sg.X</sourceRootElem>
+                <sourceRootElem>C:/#Unicorn/Repos/Unicorn_host_app_sb/crypto_apps_pic32ck_sg/host_firmware_hsm_boothex_pic32ck-sg.X</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>4</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
